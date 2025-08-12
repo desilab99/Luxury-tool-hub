@@ -1,0 +1,118 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0B0B2B;
+  color: white;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+#galaxy {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: radial-gradient(ellipse at bottom, #0b0b2b, #000000);
+  z-index: -1;
+  opacity: 0.8;
+}
+header {
+  text-align: center;
+  padding: 60px 20px 20px;
+}
+header h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  background: linear-gradient(90deg, #FFD700, #00BFFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+header p { margin: 10px 0; opacity: 0.9; }
+.search-section { text-align: center; padding: 20px; }
+#search {
+  width: 90%;
+  max-width: 500px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 1rem;
+}
+#search::placeholder { color: rgba(255, 255, 255, 0.6); }
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+}
+.cat-btn {
+  padding: 10px 20px;
+  border: 1px solid #00BFFF;
+  background: transparent;
+  color: white;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.cat-btn:hover, .cat-btn.active {
+  background: #00BFFF;
+  color: #000;
+  transform: scale(1.05);
+}
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.tool-card {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(0, 191, 255, 0.2);
+  transition: 0.3s;
+}
+.tool-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 191, 255, 0.2);
+  border-color: #FFD700;
+}
+.tool-card h3 {
+  font-size: 1.2rem;
+  margin: 10px 0;
+  color: #FFD700;
+}
+.tool-card p {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin: 10px 0;
+}
+.tool-card a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 16px;
+  background: linear-gradient(90deg, #FFD700, #FF69B4);
+  color: #000;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+footer {
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 50px;
+  opacity: 0.8;
+}
+footer .links a {
+  color: #00BFFF;
+  margin: 0 10px;
+  text-decoration: none;
+}
+footer .links a:hover {
+  text-decoration: underline;
+}
