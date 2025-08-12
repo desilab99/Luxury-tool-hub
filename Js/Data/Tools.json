@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "AI Logo Generator",
+    "icon": "🎨",
+    "description": "Generate stunning logos using AI in seconds.",
+    "category": "AI Tools",
+    "url": "https://hailuo.ai"
+  },
+  {
+    "id": 2,
+    "name": "Text to Speech Pro",
+    "icon": "🗣️",
+    "description": "Convert any text into natural-sounding speech.",
+    "category": "Text Tools",
+    "url": "https://ttsmaker.com"
+  },
+  {
+    "id": 3,
+    "name": "Meme Generator",
+    "icon": "🤣",
+    "description": "Create viral memes with custom text and images.",
+    "category": "Fun Tools",
+    "url": "https://imgflip.com/memegenerator"
+  },
+  {
+    "id": 4,
+    "name": "Gradient Color Picker",
+    "icon": "🌈",
+    "description": "Create beautiful gradient backgrounds for your designs.",
+    "category": "Design Tools",
+    "url": "https://cssgradient.io"
+  },
+  {
+    "id": 5,
+    "name": "AI Avatar Generator",
+    "icon": "👤",
+    "description": "Create a unique AI-generated avatar for your profile.",
+    "category": "AI Tools",
+    "url": "https://artbreeder.com"
+  },
+  {
+    "id": 6,
+    "name": "QR Code Maker",
+    "icon": "🔲",
+    "description": "Generate QR codes for websites, contacts, and more.",
+    "category": "Utility Tools",
+    "url": "https://qr-code-generator.com"
+  },
+  {
+    "id": 7,
+    "name": "Background Remover",
+    "icon": "✂️",
+    "description": "Remove image background instantly with AI.",
+    "category": "AI Tools",
+    "url": "https://remove.bg"
+  },
+  {
+    "id": 8,
+    "name": "Password Generator",
+    "icon": "🔐",
+    "description": "Create strong, secure passwords in one click.",
+    "category": "Security Tools",
+    "url": "https://passwordsgenerator.net"
+  },
+  {
+    "id": 9,
+    "name": "Emoji Combos",
+    "icon": "😊🎉",
+    "description": "Find the best emoji combinations for social media.",
+    "category": "Fun Tools",
+    "url": "https://getemoji.com"
+  },
+  {
+    "id": 10,
+    "name": "Favicon Generator",
+    "icon": "📌",
+    "description": "Create a custom favicon for your website.",
+    "category": "Design Tools",
+    "url": "https://favicon.io"
+  },
+  {
+    "id": 11,
+    "name": "Canva",
+    "icon": "🖼️",
+    "description": "Design social media posts, presentations, and logos easily.",
+    "category": "Design Tools",
+    "url": "https://canva.com"
+  },
+  {
+    "id": 12,
+    "name": "Grammarly",
+    "icon": "✍️",
+    "description": "Improve your writing with AI-powered grammar and style checks.",
+    "category": "Text Tools",
+    "url": "https://grammarly.com"
+  },
+  {
+    "id": 13,
+    "name": "Unsplash",
+    "icon": "📷",
+    "description": "Free high-resolution photos for personal and commercial use.",
+    "category": "Design Tools",
+    "url": "https://unsplash.com"
+  },
+  {
+    "id": 14,
+    "name": "DeepL Translator",
+    "icon": "🌍",
+    "description": "Accurate AI-powered translation in multiple languages.",
+    "category": "Text Tools",
+    "url": "https://deepl.com"
+  },
+  {
+    "id": 15,
+    "name": "Notion",
+    "icon": "📝",
+    "description": "All-in-one workspace for notes, tasks, and projects.",
+    "category": "Productivity Tools",
+    "url": "https://notion.so"
+  },
+  {
+    "id": 16,
+    "name": "Trello",
+    "icon": "🗂️",
+    "description": "Organize tasks and projects with boards and cards.",
+    "category": "Productivity Tools",
+    "url": "https://trello.com"
+  },
+  {
+    "id": 17,
+    "name": "Pexels",
+    "icon": "📸",
+    "description": "Free stock photos and videos for creators.",
+    "category": "Design Tools",
+    "url": "https://pexels.com"
+  },
+  {
+    "id": 18,
+    "name": "Pixlr",
+    "icon": "🖌️",
+    "description": "Online photo editor with advanced features.",
+    "category": "Design Tools",
+    "url": "https://pixlr.com"
+  },
+  {
+    "id": 19,
+    "name": "Lumen5",
+    "icon": "🎥",
+    "description": "Turn blog posts into engaging videos with AI.",
+    "category": "AI Tools",
+    "url": "https://lumen5.com"
+  },
+  {
+    "id": 20,
+    "name": "Otter.ai",
+    "icon": "👂",
+    "description": "Transcribe meetings and voice notes automatically.",
+    "category": "AI Tools",
+    "url": "https://otter.ai"
+  },
+  {
+    "id": 21,
+    "name": "TinyWow",
+    "icon": "⚡",
+    "description": "Free online tools for PDF, video, image, and file conversion.",
+    "category": "Utility Tools",
+    "url": "https://tinywow.com"
+  },
+  {
+    "id": 22,
+    "name": "Namecheap",
+    "icon": "🌐",
+    "description": "Buy domain names and hosting at affordable prices.",
+    "category": "Utility Tools",
+    "url": "https://namecheap.com"
+  },
+  {
+    "id": 23,
+    "name": "Bitly",
+    "icon": "🔗",
+    "description": "Shorten URLs and track clicks with analytics.",
+    "category": "Utility Tools",
+    "url": "https://bitly.com"
+  },
+  {
+    "id": 24,
+    "name": "Wave Video",
+    "icon": "🎬",
+    "description": "Create marketing videos and social media clips online.",
+    "category": "Video Tools",
+    "url": "https://wave.video"
+  },
+  {
+    "id": 25,
+    "name": "Remove.bg",
+    "icon": "✂️",
+    "description": "Automatically remove image background with AI.",
+    "category": "AI Tools",
+    "url": "https://remove.bg"
+  },
+  {
+    "id": 26,
+    "name": "Photopea",
+    "icon": "🔧",
+    "description": "Free online Photoshop alternative for advanced editing.",
+    "category": "Design Tools",
+    "url": "https://photopea.com"
+  },
+  {
+    "id": 27,
+    "name": "Veed.io",
+    "icon": "🎞️",
+    "description": "Edit videos, add subtitles, and trim clips online.",
+    "category": "Video Tools",
+    "url": "https://veed.io"
+  },
+  {
+    "id": 28,
+    "name": "Kapwing",
+    "icon": "🎭",
+    "description": "Collaborative online video editor for memes and reels.",
+    "category": "Video Tools",
+    "url": "https://kapwing.com"
+  },
+  {
+    "id": 29,
+    "name": "Figma",
+    "icon": "✏️",
+    "description": "Collaborative interface design tool for teams.",
+    "category": "Design Tools",
+    "url": "https://figma.com"
+  },
+  {
+    "id": 30,
+    "name": "Descript",
+    "icon": "🔊",
+    "description": "Edit audio and video like a text document.",
+    "category": "AI Tools",
+    "url": "https://descript.com"
+  },
+  {
+    "id": 31,
+    "name": "Hemingway Editor",
+    "icon": "🖋️",
+    "description": "Make your writing bold and clear with readability scoring.",
+    "category": "Text Tools",
+    "url": "https://hemingwayapp.com"
+  },
+  {
+    "id": 32,
+    "name": "Crello (now VistaCreate)",
+    "icon": "🎨",
+    "description": "Easy graphic design tool for social media content.",
+    "category": "Design Tools",
+    "url": "https://vistacreate.com"
+  },
+  {
+    "id": 33,
+    "name": "BuzzSumo",
+    "icon": "📊",
+    "description": "Find popular content and influencers in any niche.",
+    "category": "Marketing Tools",
+    "url": "https://buzzsumo.com"
+  },
+  {
+    "id": 34,
+    "name": "AnswerThePublic",
+    "icon": "❓",
+    "description": "Discover what people are searching online.",
+    "category": "Marketing Tools",
+    "url": "https://answerthepublic.com"
+  },
+  {
+    "id": 35,
+    "name": "Google Trends",
+    "icon": "📈",
+    "description": "See what's trending in your country or niche.",
+    "category": "Marketing Tools",
+    "url": "https://trends.google.com"
+  },
+  {
+    "id": 36,
+    "name": "Mailchimp",
+    "icon": "✉️",
+    "description": "Create and send email marketing campaigns.",
+    "category": "Marketing Tools",
+    "url": "https://mailchimp.com"
+  },
+  {
+    "id": 37,
+    "name": "HubSpot",
+    "icon": "📞",
+    "description": "CRM and marketing tools for growing businesses.",
+    "category": "Marketing Tools",
+    "url": "https://hubspot.com"
+  },
+  {
+    "id": 38,
+    "name": "Ubersuggest",
+    "icon": "🔍",
+    "description": "SEO tool for keyword research and site audit.",
+    "category": "SEO Tools",
+    "url": "https://neilpatel.com/ubersuggest"
+  },
+  {
+    "id": 39,
+    "name": "SEO Minion",
+    "icon": "🕷️",
+    "description": "Free SEO browser extension for on-page analysis.",
+    "category": "SEO Tools",
+    "url": "https://seominion.com"
+  },
+  {
+    "id": 40,
+    "name": "Screaming Frog",
+    "icon": "🐸",
+    "description": "Website crawler for SEO audits and broken links.",
+    "category": "SEO Tools",
+    "url": "https://screamingfrog.co.uk"
+  },
+  {
+    "id": 41,
+    "name": "Google PageSpeed Insights",
+    "icon": "⚡",
+    "description": "Test your website speed and performance.",
+    "category": "SEO Tools",
+    "url": "https://pagespeed.web.dev"
+  },
+  {
+    "id": 42,
+    "name": "GTmetrix",
+    "icon": "📉",
+    "description": "Analyze website speed and get optimization tips.",
+    "category": "SEO Tools",
+    "url": "https://gtmetrix.com"
+  },
+  {
+    "id": 43,
+    "name": "Plagiarism Checker",
+    "icon": "🔎",
+    "description": "Check if text is copied from elsewhere.",
+    "category": "Text Tools",
+    "url": "https://duplichecker.com"
+  },
+  {
+    "id": 44,
+    "name": "QuillBot",
+    "icon": "🔄",
+    "description": "Paraphrase and rewrite text with AI.",
+    "category": "Text Tools",
+    "url": "https://quillbot.com"
+  },
+  {
+    "id": 45,
+    "name": "WordCounter",
+    "icon": "🔢",
+    "description": "Count words, characters, and reading time.",
+    "category": "Text Tools",
+    "url": "https://wordcounter.net"
+  },
+  {
+    "id": 46,
+    "name": "Cool Text Generator",
+    "icon": "🔤",
+    "description": "Create stylish text and logos for social media.",
+    "category": "Fun Tools",
+    "url": "https://cooltext.com"
+  },
+  {
+    "id": 47,
+    "name": "Fake Name Generator",
+    "icon": "🎭",
+    "description": "Generate fake identities for testing.",
+    "category": "Fun Tools",
+    "url": "https://fakenamegenerator.com"
+  },
+  {
+    "id": 48,
+    "name": "This Person Does Not Exist",
+    "icon": "👤",
+    "description": "View AI-generated fake human faces.",
+    "category": "Fun Tools",
+    "url": "https://thispersondoesnotexist.com"
+  },
+  {
+    "id": 49,
+    "name": "AI Art Generator",
+    "icon": "🖌️",
+    "description": "Create digital art from text prompts.",
+    "category": "AI Tools",
+    "url": "https://nightcafe.studio"
+  },
+  {
+    "id": 50,
+    "name": "Runway ML",
+    "icon": "🎬",
+    "description": "AI-powered video editing and generation tools.",
+    "category": "AI Tools",
+    "url": "https://runwayml.com"
+  },
+  {
+    "id": 51,
+    "name": "ElevenLabs",
+    "icon": "🔊",
+    "description": "AI voice generator with realistic speech.",
+    "category": "AI Tools",
+    "url": "https://elevenlabs.io"
+  },
+  {
+    "id": 52,
+    "name": "Jasper AI",
+    "icon": "✍️",
+    "description": "AI copywriting tool for blogs, ads, and emails.",
+    "category": "AI Tools",
+    "url": "https://jasper.ai"
+  },
+  {
+    "id": 53,
+    "name": "Copy.ai",
+    "icon": "📝",
+    "description": "Generate marketing copy using AI.",
+    "category": "AI Tools",
+    "url": "https://copy.ai"
+  },
+  {
+    "id": 54,
+    "name": "MidJourney",
+    "icon": "🎨",
+    "description": "Create stunning AI art via Discord.",
+    "category": "AI Tools",
+    "url": "https://midjourney.com"
+  },
+  {
+    "id": 55,
+    "name": "Stable Diffusion Online",
+    "icon": "🖼️",
+    "description": "Generate images from text using open-source AI.",
+    "category": "AI Tools",
+    "url": "https://stablediffusionweb.com"
+  },
+  {
+    "id": 56,
+    "name": "Pencil Code",
+    "icon": "✏️",
+    "description": "Turn sketches into website code using AI.",
+    "category": "AI Tools",
+    "url": "https://pencilcode.ai"
+  },
+  {
+    "id": 57,
+    "name": "Designs.ai",
+    "icon": "🚀",
+    "description": "All-in-one AI design, video, and logo maker.",
+    "category": "AI Tools",
+    "url": "https://designs.ai"
+  },
+  {
+    "id": 58,
+    "name": "Resume.io",
+    "icon": "📄",
+    "description": "Create professional resumes in minutes.",
+    "category": "Productivity Tools",
+    "url": "https://resume.io"
+  },
+  {
+    "id": 59,
+    "name": "Canva Whiteboard",
+    "icon": "🧩",
+    "description": "Collaborative brainstorming and planning tool.",
+    "category": "Productivity Tools",
+    "url": "https://whiteboard.canva.com"
+  },
+  {
+    "id": 60,
+    "name": "Notepad++",
+    "icon": "💻",
+    "description": "Free code editor for developers and writers.",
+    "category": "Utility Tools",
+    "url": "https://notepad-plus-plus.org"
+  },
+  {
+    "id": 61,
+    "name": "TinyPNG",
+    "icon": "🗜️",
+    "description": "Compress PNG and JPG images without quality loss.",
+    "category": "Design Tools",
+    "url": "https://tinypng.com"
+  },
+  {
+    "id": 62,
+    "name": "PDF24",
+    "icon": "📄",
+    "description": "Free online PDF tools: merge, split, compress.",
+    "category": "Utility Tools",
+    "url": "https://tools.pdf24.org"
+  },
+  {
+    "id": 63,
+    "name": "ScreenToGif",
+    "icon": "🎥",
+    "description": "Record screen, webcam, or webcam and edit as GIF.",
+    "category": "Video Tools",
+    "url": "https://screentogif.com"
+  },
+  {
+    "id": 64,
+    "name": "InVideo",
+    "icon": "🎬",
+    "description": "Create videos from templates with drag-and-drop editor.",
+    "category": "Video Tools",
+    "url": "https://invideo.io"
+  },
+  {
+    "id": 65,
+    "name": "Animoto",
+    "icon": "📽️",
+    "description": "Make marketing videos with music and text.",
+    "category": "Video Tools",
+    "url": "https://animoto.com"
+  },
+  {
+    "id": 66,
+    "name": "Clipchamp",
+    "icon": "🎞️",
+    "description": "Online video editor with built-in stock media.",
+    "category": "Video Tools",
+    "url": "https://clipchamp.com"
+  },
+  {
+    "id": 67,
+    "name": "Wave Audio",
+    "icon": "🎵",
+    "description": "Create royalty-free music for videos.",
+    "category": "Audio Tools",
+    "url": "https://wavve.co"
+  },
+  {
+    "id": 68,
+    "name": "Audacity",
+    "icon": "🎧",
+    "description": "Free audio editor for recording and mixing.",
+    "category": "Audio Tools",
+    "url": "https://audacityteam.org"
+  },
+  {
+    "id": 69,
+    "name": "SoundCloud",
+    "icon": "🔊",
+    "description": "Upload, promote, and share audio tracks.",
+    "category": "Audio Tools",
+    "url": "https://soundcloud.com"
+  },
+  {
+    "id": 70,
+    "name": "BandLab",
+    "icon": "🎶",
+    "description": "Create music online with virtual instruments.",
+    "category": "Audio Tools",
+    "url": "https://bandlab.com"
+  },
+  {
+    "id": 71,
+    "name": "FontPair",
+    "icon": "🔤",
+    "description": "Discover beautiful Google Font combinations.",
+    "category": "Design Tools",
+    "url": "https://fontpair.co"
+  },
+  {
+    "id": 72,
+    "name": "Font Squirrel",
+    "icon": "🖌️",
+    "description": "Free fonts for commercial use.",
+    "category": "Design Tools",
+    "url": "https://fontsquirrel.com"
+  },
+  {
+    "id": 73,
+    "name": "Coolors",
+    "icon": "🎨",
+    "description": "Generate color palettes in seconds.",
+    "category": "Design Tools",
+    "url": "https://coolors.co"
+  },
+  {
+    "id": 74,
+    "name": "Mockup World",
+    "icon": "📱",
+    "description": "Free mockup templates for designers.",
+    "category": "Design Tools",
+    "url": "https://mockupworld.co"
+  },
+  {
+    "id": 75,
+    "name": "Freepik",
+    "icon": "🖼️",
+    "description": "Vectors, photos, and PSD files for designers.",
+    "category": "Design Tools",
+    "url": "https://freepik.com"
+  },
+  {
+    "id": 76,
+    "name": "Icons8",
+    "icon": "🖼️",
+    "description": "Icons, music, and illustrations for projects.",
+    "category": "Design Tools",
+    "url": "https://icons8.com"
+  },
+  {
+    "id": 77,
+    "name": "Flaticon",
+    "icon": "📍",
+    "description": "World's largest icon library.",
+    "category": "Design Tools",
+    "url": "https://flaticon.com"
+  },
+  {
+    "id": 78,
+    "name": "Giphy",
+    "icon": "/gif",
+    "description": "Search and share animated GIFs.",
+    "category": "Fun Tools",
+    "url": "https://giphy.com"
+  },
+  {
+    "id": 79,
+    "name": "Tenor",
+    "icon": "🎥",
+    "description": "GIF keyboard for messaging apps.",
+    "category": "Fun Tools",
+    "url": "https://tenor.com"
+  },
+  {
+    "id": 80,
+    "name": "Immersive Reader",
+    "icon": "👁️",
+    "description": "Improve reading experience with focus mode.",
+    "category": "Accessibility Tools",
+    "url": "https://microsoft.com/learningtools"
+  },
+  {
+    "id": 81,
+    "name": "Google Keep",
+    "icon": "📌",
+    "description": "Simple note-taking and to-do lists.",
+    "category": "Productivity Tools",
+    "url": "https://keep.google.com"
+  },
+  {
+    "id": 82,
+    "name": "Raindrop.io",
+    "icon": "🔖",
+    "description": "Bookmark manager with tagging and search.",
+    "category": "Productivity Tools",
+    "url": "https://raindrop.io"
+  },
+  {
+    "id": 83,
+    "name": "Zapier",
+    "icon": "⚡",
+    "description": "Connect apps and automate workflows.",
+    "category": "Productivity Tools",
+    "url": "https://zapier.com"
+  },
+  {
+    "id": 84,
+    "name": "IFTTT",
+    "icon": "🔗",
+    "description": "Automate tasks between apps and devices.",
+    "category": "Productivity Tools",
+    "url": "https://ifttt.com"
+  },
+  {
+    "id": 85,
+    "name": "Grammar Checker",
+    "icon": "✅",
+    "description": "Free tool to fix grammar and spelling errors.",
+    "category": "Text Tools",
+    "url": "https://grammarchecker.net"
+  },
+  {
+    "id": 86,
+    "name": "Character Count Online",
+    "icon": "🔢",
+    "description": "Count characters, words, and sentences.",
+    "category": "Text Tools",
+    "url": "https://charactercountonline.com"
+  },
+  {
+    "id": 87,
+    "name": "Lorem Ipsum Generator",
+    "icon": "📜",
+    "description": "Generate placeholder text for designs.",
+    "category": "Text Tools",
+    "url": "https://lipsum.com"
+  },
+  {
+    "id": 88,
+    "name": "Markdown Editor",
+    "icon": "📝",
+    "description": "Edit and preview Markdown files online.",
+    "category": "Text Tools",
+    "url": "https://dillinger.io"
+  },
+  {
+    "id": 89,
+    "name": "CodePen",
+    "icon": "💻",
+    "description": "Frontend playground for HTML, CSS, JS.",
+    "category": "Developer Tools",
+    "url": "https://codepen.io"
+  },
+  {
+    "id": 90,
+    "name": "JSFiddle",
+    "icon": "🔧",
+    "description": "Test JavaScript, HTML, and CSS snippets.",
+    "category": "Developer Tools",
+    "url": "https://jsfiddle.net"
+  },
+  {
+    "id": 91,
+    "name": "JSON Formatter",
+    "icon": "📋",
+    "description": "Format and validate JSON data.",
+    "category": "Developer Tools",
+    "url": "https://jsonformatter.org"
+  },
+  {
+    "id": 92,
+    "name": "Regex Tester",
+    "icon": "🔍",
+    "description": "Test and debug regular expressions.",
+    "category": "Developer Tools",
+    "url": "https://regex101.com"
+  },
+  {
+    "id": 93,
+    "name": "CSS Gradient",
+    "icon": "🌈",
+    "description": "Create and export beautiful CSS gradients.",
+    "category": "Design Tools",
+    "url": "https://cssgradient.io"
+  },
+  {
+    "id": 94,
+    "name": "SVG Viewer",
+    "icon": "🖼️",
+    "description": "View and debug SVG files online.",
+    "category": "Developer Tools",
+    "url": "https://svgviewer.dev"
+  },
+  {
+    "id": 95,
+    "name": "BrowserStack",
+    "icon": "🌐",
+    "description": "Test websites on real devices and browsers.",
+    "category": "Developer Tools",
+    "url": "https://browserstack.com"
+  },
+  {
+    "id": 96,
+    "name": "Netlify",
+    "icon": "🚀",
+    "description": "Deploy static websites in seconds.",
+    "category": "Developer Tools",
+    "url": "https://netlify.com"
+  },
+  {
+    "id": 97,
+    "name": "Vercel",
+    "icon": "⚡",
+    "description": "Deploy frontend apps with zero config.",
+    "category": "Developer Tools",
+    "url": "https://vercel.com"
+  },
+  {
+    "id": 98,
+    "name": "GitHub",
+    "icon": "🐙",
+    "description": "Host and manage your code projects.",
+    "category": "Developer Tools",
+    "url": "https://github.com"
+  },
+  {
+    "id": 99,
+    "name": "Replit",
+    "icon": "🖥️",
+    "description": "Code in the browser with AI assistance.",
+    "category": "Developer Tools",
+    "url": "https://replit.com"
+  },
+  {
+    "id": 100,
+    "name": "Google Fonts",
+    "icon": "🔤",
+    "description": "Free fonts for web designers and developers.",
+    "category": "Design Tools",
+    "url": "https://fonts.google.com"
+  }
+]
